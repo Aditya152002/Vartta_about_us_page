@@ -1,0 +1,10 @@
+body{
+    background-image: url('shiv.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.clip{color:rgba(12, 7, 7, 0.671);
+    clip-path: circle(28.5% at 50% 50%);
+}
